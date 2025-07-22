@@ -1,6 +1,6 @@
 import requests
 
-cookies = "sessionid=ojj6ugazos8bzlrnuel7vxa0tbowtv32; Hm_lvt_0d2227abf9548feda3b9cb6fddee26c0=1752635827,1752652324,1752658631,1752824585; HMACCOUNT=75D220E9701682BB;Hm_lpvt_0d2227abf9548feda3b9cb6fddee26c0=1753068370; "
+cookies = ""
 
 # 用于提交答案,形参为关卡数,比如1
 def submitAnswers(level,answer):
